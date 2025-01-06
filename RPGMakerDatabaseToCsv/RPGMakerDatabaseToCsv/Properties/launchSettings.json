@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RPGMakerDatabaseToCsv": {
+      "commandName": "Project",
+      "commandLineArgs": "\"H:\\\\Pete\\\\Documents\\\\RPG Maker project\\\\demon fire team\\\\projectdemonfire\\\\Crystal Travel V0.01\\\\data\""
+    }
+  }
+}
