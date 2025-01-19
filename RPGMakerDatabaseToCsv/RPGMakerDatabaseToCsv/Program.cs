@@ -66,7 +66,7 @@ using (StreamWriter outputFile = new StreamWriter("MapInfosTable.csv"))
     {
         if (result != null)
         {
-            outputFile.WriteLine($"{result.id},{result.name},{result.order},{result.parentId}");
+            outputFile.WriteLine($"{result.id},\"{result.name}\",{result.order},{result.parentId}");
         }
     }
 }
